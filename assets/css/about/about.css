@@ -1,0 +1,15 @@
+.about {
+  text-align: center;
+}
+
+@media screen and (min-width: 0){
+  .about {
+    padding: 2.5rem 1rem;
+  }
+}
+
+@media screen and (min-width: 768px){
+  .about {
+    padding: 2.5rem;
+  }
+}
